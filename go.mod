@@ -1,4 +1,4 @@
-module github.com/gogf/gf-jwt
+module github.com/jinmao88/gf-jwt
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
