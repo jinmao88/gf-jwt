@@ -12,13 +12,13 @@ This plugin is forked [https://github.com/appleboy/gin-jwt](https://github.com/a
 Download and install
 
 ```sh
-$ go get github.com/gogf/gf-jwt
+$ go get github.com/jinmao88/gf-jwt
 ```
 
 Import
 
 ```go
-import "github.com/gogf/gf-jwt"
+import "github.com/jinmao88/gf-jwt"
 ```
 
 ## Demo
